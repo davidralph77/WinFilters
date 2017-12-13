@@ -3,3 +3,7 @@
 ################################################################################
 
 /Core/bin/Debug
+/Filters/bin/Debug
+/Filters/obj
+/.vs/WinFilters/v15/Server/sqlite3
+/Core/obj/Debug

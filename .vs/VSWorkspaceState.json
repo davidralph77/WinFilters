@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Filters\\Properties"
+    "\\Core",
+    "\\Core\\Help",
+    "\\Filters",
+    "\\Filters\\Forms",
+    "\\Filters\\Initialization"
   ],
+  "SelectedNode": "\\Filters\\WinFilters.csproj",
   "PreviewInSolutionExplorer": false
 }

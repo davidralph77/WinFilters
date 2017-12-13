@@ -28,8 +28,8 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <ProductName>WinFilters</ProductName>
-    <PublisherName>SpeakerDesign</PublisherName>
-    <SuiteName>WinPCD</SuiteName>
+    <PublisherName></PublisherName>
+    <SuiteName>WinFilters</SuiteName>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.0</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
